@@ -1,0 +1,6 @@
+venv/
+*.pyc
+__pycache__/
+.env
+Tailored_CV_*.pdf
+Rafah_AlNabulsy_Tailored_CV.pdf
