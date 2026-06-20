@@ -57,15 +57,4 @@ Paste the targeted Job Description in the input text area.
 Click Generate Tailored CV and download your ATS-ready resume instantly! 🎈
 
 
----
-
-### 📥 خطوات تحديث الملف ورفعه على جيت هاب:
-
-1. افتحي ملف `README.md` في الـ VS Code، واحذفي كل اللي جواته واعملي Paste للمكتوب فوق.
-2. احفظي الملف (`Cmd + S` أو `Ctrl + S`).
-3. افتحي الـ Terminal ونفذي أوامر الـ Git الفخمة هاي عشان نرفع التعديل فوراً:
-
-```bash
-git add README.md
-git commit -m "Docs: update README with detailed system architecture, technical stack, and workflow"
 git push origin main
